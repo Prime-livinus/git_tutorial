@@ -1,1 +1,2 @@
-"Initial state" 
+"Initial state"
+"new changes made to the document" 
